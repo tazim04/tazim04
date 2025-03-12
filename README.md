@@ -12,7 +12,7 @@ Hi, my name is Tazim Khan and I'm a third year Software Engineering student at t
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tazim04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=tazim04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged&rank_icon=grade"/>
       </td>
       <td>
         <img src="https://nirzak-streak-stats.vercel.app/?user=tazim04&theme=tokyonight&hide_border=false"/>
