@@ -22,11 +22,6 @@ Hi, my name is Tazim Khan and I'm a third year Software Engineering student at t
       <td align="center">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazim04&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
       </td>
-      <td>
-         <a href="https://leetcode.com/tazim720/">
-          <img src="https://leetcard.jacoblin.cool/tazim720?theme=catppuccinMocha&font=Noto%20Sans%20Kharoshthi&ext=activity"/>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
