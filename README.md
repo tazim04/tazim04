@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, my name is Tazim Khan and I'm a fourth year Software Engineering student at the University of Ottawa!<br><br>🔭 I’m currently working on https://github.com/tazim04/Job-Scraper<br>🌱 I’m currently learning C and more about AWS.<br>📫You can reach me here: tazimkhan.2004@gmail.com<br>⚡ Fun fact: I love to draw, check out my work here https://www.instagram.com/te3kayart/
+Hi, my name is Tazim Khan and I'm a fourth year Software Engineering student at the University of Ottawa!<br><br>🔭 I’m currently working on https://github.com/tazim04/Job-Scraper<br>🌱 I’m currently learning C++ and more about AWS.<br>📫You can reach me here: tazimkhan.2004@gmail.com<br>⚡ Fun fact: I love to draw, check out my work here https://www.instagram.com/te3kayart/
 
 
 ## 🌐 Socials:
